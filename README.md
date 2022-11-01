@@ -11,6 +11,6 @@ I feel very confident in my ability to work with and synthesize data, but I am e
 # Portfolio
 Check out links to my work for this class below! 
 
-### Link 1
-### Link 2
-### Link 3
+#### Link 1 (coming soon)
+#### Link 2 (coming soon)
+#### Final project (coming soon)
