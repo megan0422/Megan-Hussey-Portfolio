@@ -9,3 +9,8 @@
 This visualization was created with Flourish to depict government debt per total GDP of the country. 
 
 ## Visualization 3
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/11735924"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+This visualization was created with Flourish to show the data from visuals 1 and 2 in a different way. This time, government debt per total GDP of the country is depicted with a circle map, with countries with higher debt ratios given bigger circles. The drop down menu gives an option to see totals (over the period 1995-2021), or select the year. 
+
+### Writeup: 
