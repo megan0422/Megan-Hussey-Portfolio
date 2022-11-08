@@ -11,6 +11,6 @@ I feel very confident in my ability to work with and synthesize data, but I am e
 # Portfolio
 Check out links to my work for this class below! 
 
-#### [Data visualization 1]([Link text Here](https://link-url-here.org)
+#### [Data visualization exercise 1](https://link-url-here.org](https://megan0422.github.io/Megan-Hussey-Portfolio/dataviz2)
 #### Link 2 (coming soon)
 #### Final project (coming soon)
