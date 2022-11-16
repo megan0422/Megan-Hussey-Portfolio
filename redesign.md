@@ -3,7 +3,7 @@
 #### Choosing the visualization
 For this assignment, I was tasked to first critique an existing visualization and then offer up a redesign solution. I chose to critique and redesign the following visualization from the Prison Policy Initiative on state prison populations by racial demographic. 
 
-![Visualization to be critiqued](Visualization.png)width="120" height="120">
+![Visualization to be critiqued](Visualization.png)width="50" height="50">
 
 [Source: Prison Policy Initiative](https://www.prisonpolicy.org/reports/beyondthecount.html)
 
