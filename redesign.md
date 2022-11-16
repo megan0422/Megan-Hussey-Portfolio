@@ -3,7 +3,7 @@
 #### Choosing the visualization
 For this assignment, I was tasked to first critique an existing visualization and then offer up a redesign solution. I chose to critique and redesign the following visualization from the Prison Policy Initiative on state prison populations by racial demographic. 
 
-![Visualization to be critiqued](Visualization.png)
+![Visualization to be critiqued](Visualization.png = 250x250)
 
 [Source: Prison Policy Initiative](https://www.prisonpolicy.org/reports/beyondthecount.html)
 
@@ -15,14 +15,14 @@ My overall critiques of this visual were that it was very difficult to comprehen
 ### New wireframes and feedback loop
 I first attempted to recreate a similar version to the original visualization, using lines instead of circles to make the categories a little bit easier to track across both the U.S. population side and the state prison population side. I also moved the titles to the top to make it easier for the reader to initially see the two separate sides. 
 
-![Wireframe1](Wireframe1.jpg)
+![Wireframe1](Wireframe1.jpg = 250x250)
 
 **User feedback on first wireframe**
 I spoke to two mid-twenty graduate students (1M and 1F) who both could interpret what my sketch was trying to convey, but who both expressed confused if the two sides added up to 100% separately or individually. That planted the idea for me to try two separate pie charts, to make it clear for the viewer that while we are comparing the two population proportions by racial breakdown, they should *separately* add up to 100%, not together.
 
 The second wireframe I drew up was thus the two separate pie charts. I found this task to be deceptively simple, but after thinking about my own struggles to make sense of the two separate population counts on the inital visual, I decided to give it a go. 
 
-![Wireframe2](Wireframe2.jpg)
+![Wireframe2](Wireframe2.jpg = 250x250)
 
 **User feedback on second wireframe**
 I got feedback from 3 other classmates on the pie charts, who suggested that if I was truly trying to just tell the story that White people are disproportionately underrepresented in state prison population counts relative to their overall population total when compared to Black people and other minorities, that I should just color White vs. Black or White vs. Black and one other racial cateogry (perhaps Hispanic). This led to me to the final design.
