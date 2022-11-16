@@ -28,4 +28,6 @@ The second wireframe I drew up was thus the two separate pie charts. I found thi
 I got feedback from 3 other classmates on the pie charts, who suggested that if I was truly trying to just tell the story that White people are disproportionately underrepresented in state prison population counts relative to their overall population total when compared to Black people and other minorities, that I should just color White vs. Black or White vs. Black and one other racial cateogry (perhaps Hispanic). This led to me to the final design.
 
 ### Final redesign
+I decided to use two pie charts to show the different population breakdowns, and after hearing feedback from the second group, decided to only color three of the pie slices to really emphasize the message. 
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/11836169"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
