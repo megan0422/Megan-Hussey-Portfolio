@@ -16,7 +16,7 @@ For data on microplastics and nurdles, I plan to use what is available from the 
 #### Rough Outline and Sketches ✏️
 Below is a rough estimate of how I will walk my audience through my story. The bulk of the beginning and middle of my overview will be pretty depressing. Most data on plastic pollution shows just how badly polluted our environment and oceans are. Once I introduce citizen efforts to gather more data and draw attention to microplastics (like the nurdle patrol), this will raise spirits slightly. Finally, my call to action will leave people feeling hopeful and like they can do something to address the problem. My call to action will be to go nurdle hunting for those that live near the ocean or a great lake, or holding corporations accountable to using more eco-friendly alternatives to plastic. 
 
-
+![Audience Emotion](2164.jpg)
 
 
 
