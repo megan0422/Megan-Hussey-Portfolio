@@ -7,6 +7,7 @@ For my final project, I am interested in exploring plastic pollution and usage a
 Nurdles are a specific type of microplastic I want to draw attention to. Nurdles are pre-production plastic pellets that are the building blocks for almost all of our plastic products (2). Nurdles are melted into everyday plastic products like water bottles, containers, jugs, etc. They are released into the environment during transport to plastic plants or factories, as their small size allows for little bits to spill undetected. They are mistaken for food by marine life and are toxic upon consumption. An estimated 230,000 tons of nurdles end up in our oceans every year (3). 
 
 ![Microplastics](https://images.unsplash.com/photo-1622391543141-a522421627cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1742&q=80 "Source: Unsplash")
+*Source: Unsplash*
 
 #### Data Sources 📈
 Because microplastic research is still relatively new and emerging, public data sources on microsplastics are few and far between. I thus plan to use publicly available data on plastic pollution globally. I found a dataset on global plastic production on [Kaggle](https://www.kaggle.com/datasets/sohamgade/plastic-datasets). The data shows global plastic production (in million tons) per year spanning from 1950 to 2010. It also includes data broken down by country and per capita plastic waste. 
@@ -18,7 +19,12 @@ Below is a rough estimate of how I will walk my audience through my story. The b
 
 ![Audience Emotion](2164.jpg)
 
+I then plan to display bar graphs showing the rise of plastic pollution over the decades. Below is a rough sketch of what I had in mind for this (please note this data is not exact or accurate, this is just an initial sketch): 
 
+
+
+#### Method and medium 🌟
+I plan to use shorthand as the final medium to present my project. I will build my visualizations in tableau and then embed those into shorthand. Because my data on microplastics is more incomplete, I will make use of pull out quotes and statistics in shorthand to convey the emerging issues over microplastic pollution.
 
 #### References:
 1. US Department of Commerce, National Oceanic and Atmospheric Administration. n.d. “What Are Microplastics?” Accessed November 23, 2022. https://oceanservice.noaa.gov/facts/microplastics.html.
