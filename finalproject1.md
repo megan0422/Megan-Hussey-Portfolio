@@ -10,7 +10,7 @@ Nurdles are a specific type of microplastic I want to draw attention to. Nurdles
 *Source: Unsplash*
 
 #### Data Sources 📈
-Because microplastic research is still relatively new and emerging, public data sources on microsplastics are few and far between. I thus plan to use publicly available data on plastic pollution globally. I found a dataset on global plastic production on [Kaggle](https://www.kaggle.com/datasets/sohamgade/plastic-datasets). The data shows global plastic production (in million tons) per year spanning from 1950 to 2010. It also includes data broken down by country and per capita plastic waste. One drawback of this data is that the most recent year of reporting is 2010. I plan to search for more recent updates to data in the weeks to come as I am building my final project. 
+Because microplastic research is still relatively new and emerging, public data sources on microsplastics are few and far between (4). I thus plan to use publicly available data on plastic pollution globally. I found a dataset on global plastic production on [Kaggle](https://www.kaggle.com/datasets/sohamgade/plastic-datasets). The data shows global plastic production (in million tons) per year spanning from 1950 to 2010. It also includes data broken down by country and per capita plastic waste. One drawback of this data is that the most recent year of reporting is 2010. I plan to search for more recent updates to data in the weeks to come as I am building my final project. 
 
 For data on microplastics and nurdles, I plan to use what is available from the [Nurdle Patrol](https://nurdlepatrol.org/). This is a relatively new group that asks citizens to go out nurdle collecting/cleaning and report where they found the nurdles and how many were collected. The data is displayed on a map, which will require some web scraping to gather. I can also make use of pull quotes and simple statistics where necessary to fill in gaps on microplastic pollution worldwide. 
 
@@ -36,3 +36,5 @@ I plan to use shorthand as the final medium to present my project. I will build 
 2. “What’s a Nurdle?” n.d. Accessed November 23, 2022. https://carnegiemnh.org/whats-a-nurdle/.
 
 3. McVeigh, Karen. 2021. “Nurdles: The Worst Toxic Waste You’ve Probably Never Heard of.” The Guardian, November 29, 2021, sec. Environment. https://www.theguardian.com/environment/2021/nov/29/nurdles-plastic-pellets-environmental-ocean-spills-toxic-waste-not-classified-hazardous.
+
+4. Jenkins, Tia, Bhaleka D. Persaud, Win Cowger, Kathy Szigeti, Dominique G. Roche, Erin Clary, Stephanie Slowinski, et al. 2022. “Current State of Microplastic Pollution Research Data: Trends in Availability and Sources of Open Data.” Frontiers in Environmental Science 10. https://www.frontiersin.org/articles/10.3389/fenvs.2022.912107.
