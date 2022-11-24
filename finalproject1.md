@@ -21,10 +21,14 @@ Below is a rough estimate of how I will walk my audience through my story. The b
 
 I then plan to display bar graphs showing the rise of plastic pollution over the decades. Below is a rough sketch of what I had in mind for this (please note this data is not exact or accurate, this is just an initial sketch): 
 
+![Sketch1](10636.jpg)
 
+I also plan to make use of Tableau's mapping data feature for displaying per capita plastic usage by country. I used the same color (blue) and used lighter shades to represent areas with less plastic pollution per capita and darker shades to show areas with the most plastic pollution per capita. The below example from flourish is using the same dataset I plan to use, but I will likely tweak things like the color scheme and population bubbles in my final. 
+
+<div class="flourish-embed flourish-map" data-src="visualisation/11932365"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 #### Method and medium 🌟
-I plan to use shorthand as the final medium to present my project. I will build my visualizations in tableau and then embed those into shorthand. Because my data on microplastics is more incomplete, I will make use of pull out quotes and statistics in shorthand to convey the emerging issues over microplastic pollution.
+I plan to use shorthand as the final medium to present my project. I will build my visualizations in flourish and then embed those into shorthand. Because my data on microplastics is more incomplete, I will make use of pull out quotes and statistics in shorthand to convey the emerging issues over microplastic pollution.
 
 #### References:
 1. US Department of Commerce, National Oceanic and Atmospheric Administration. n.d. “What Are Microplastics?” Accessed November 23, 2022. https://oceanservice.noaa.gov/facts/microplastics.html.
