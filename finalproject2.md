@@ -12,14 +12,18 @@ I created a rough draft of my final presentation in shorthand, trying to follow 
 The link to preview my rough draft can be found [here.](https://preview.shorthand.com/O5jAUoDFg29IZwQh)
 
 ### Interviews👩‍💻
-As part of my user research, I presented my storyboard to three individuals and gathered their responses to the following questions: 
+**Target Audience:**
+My target audience for this presentation is people that care about the environment generally and have a motivation to help. 
 
-1. What are your initial takeaways? 
-2.	What struck your eye? 
-3.	Was there anything that confused you?
-4.	Would you do anything differently?
-5.	Who do you think is the target audience and would it reach them well?
-6.	How was the use of imagery?
+As part of my user research, I presented my storyboard to three individuals and gathered their responses to the following questions. My goals/intent for asking these questions is also included. 
+
+| Question | Goal |
+| 1. What are your initial takeaways? | Figuring out what people are left with at the conclusion of my presentation. |
+| 2.	What struck your eye? | To understand how people interact with my story at first glance. |
+| 3.	Was there anything that confused you? | Hoping to find areas that need to be clarified for my audience. |
+| 4.	Would you do anything differently? | Similar to the last question, but hoping to pick people's brains about areas for improvement, especially given that my target audience is already environmentally conscious. |
+| 5.	Who do you think is the target audience and would it reach them well? | Hoping to understand if the tone of my presentation is targeting the correct audience (environmentally conscious people). |
+| 6.	How was the use of imagery? | Wondering if my images are distracting or add to the overall theme of my project. | 
 
 To ensure I interviewed a diverse set of perspectives, I spoke to two individuals in their 20s and one individual in their 50s. Their responses to these questions are documented in the table below. 
 
@@ -32,3 +36,4 @@ To ensure I interviewed a diverse set of perspectives, I spoke to two individual
 | Target audience | People who care about the environment, with a sub focus on people who have time and money to care about the environment. I do think it reaches them well. | Anybody that cares about the environment. I think it would resonate with them well. |
 | Use of imagery | I thought your use of imagery was incredibly powerful. | In general, it was good. But I am still left wondering what a nurdle really looks like. |
 
+### Next steps
