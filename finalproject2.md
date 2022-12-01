@@ -47,4 +47,5 @@ After reading through my interviews, I know I need to do the following things be
 4. I need to either verbally clarify (or add words) why we recycle so little, and that a nurdle is a microplastic, but not all microplastics are nurdles. 
 
 Below is a quick sketch of feasibility for implementing these changes vs. value to the reader. This will help me decide which one to prioritize first in making edits for the final. Because I have labeled all four as medium to high feasibility and medium to high value to the viewer, however, I plan to make time to do all four before presenting.
-![Feasbility Graph](placeheolder.jpg)
+
+![Feasbility Graph](Final Part 2-2.jpg)
