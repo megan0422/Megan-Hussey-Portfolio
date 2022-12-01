@@ -13,7 +13,7 @@ The link to preview my rough draft can be found [here.](https://preview.shorthan
 
 ### Interviews👩‍💻
 **Target Audience:**
-My target audience for this presentation is people that care about the environment generally and have a motivation to help. As such, I tried to interview people that I knew were already environmentally conscious and wanting to learn more about how they can help. 
+My target audience for this presentation is people that care about the environment generally and have a motivation to help. As such, I tried to interview people that I knew were already environmentally conscious and wanting to learn more about how they can help. Additionally, because most environomentally conscious people tend to be more liberal politically, the people I spoke with all identified as Democrats and as having regularly following new policies related to climate change.  
 
 As part of my user research, I presented my storyboard to three individuals and gathered their responses to the following questions. My goals/intent for asking these questions are also included. 
 
@@ -26,7 +26,7 @@ As part of my user research, I presented my storyboard to three individuals and 
 | 5.	Who do you think is the target audience and would it reach them well? | Hoping to understand if the tone of my presentation is targeting the correct audience (environmentally conscious people). |
 | 6.	How was the use of imagery? | Wondering if my images are distracting or add to the overall theme of my project. | 
 
-To ensure I interviewed a diverse set of perspectives, I spoke to two individuals in their 20s and one individual in their 50s. Their responses to these questions are documented in the table below. 
+To ensure I interviewed a diverse set of perspectives, I spoke to two individuals in their 20s and one individual in their 50s. I wanted to speak to someone who was not a student (both in their 20s were graduate students) to see how my presentation would land with older audiences. Their responses to these questions are documented in the table below. 
 
 | Question | Person 1 (female, 24 years) | Person 2 (female, 58 years) | Person 3 (female, 26 years)
 | --- | ----------- | ----------- | ----------- |
