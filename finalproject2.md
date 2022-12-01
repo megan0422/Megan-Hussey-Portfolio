@@ -18,6 +18,7 @@ My target audience for this presentation is people that care about the environme
 As part of my user research, I presented my storyboard to three individuals and gathered their responses to the following questions. My goals/intent for asking these questions is also included. 
 
 | Question | Goal |
+| ----------- | ----------- |
 | 1. What are your initial takeaways? | Figuring out what people are left with at the conclusion of my presentation. |
 | 2.	What struck your eye? | To understand how people interact with my story at first glance. |
 | 3.	Was there anything that confused you? | Hoping to find areas that need to be clarified for my audience. |
