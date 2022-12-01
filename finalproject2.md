@@ -13,7 +13,7 @@ The link to preview my rough draft can be found [here.](https://preview.shorthan
 
 ### Interviews👩‍💻
 **Target Audience:**
-My target audience for this presentation is people that care about the environment generally and have a motivation to help. 
+My target audience for this presentation is people that care about the environment generally and have a motivation to help. As such, I tried to interview people that I knew were already environmentally conscious and wanting to learn more about how they can help. 
 
 As part of my user research, I presented my storyboard to three individuals and gathered their responses to the following questions. My goals/intent for asking these questions are also included. 
 
