@@ -28,7 +28,7 @@ As part of my user research, I presented my storyboard to three individuals and 
 
 To ensure I interviewed a diverse set of perspectives, I spoke to two individuals in their 20s and one individual in their 50s. Their responses to these questions are documented in the table below. 
 
-| Question | Person 1 (female, 24 years) | Person 2 (female, 58 years)
+| Question | Person 1 (female, 24 years) | Person 2 (female, 58 years) | Person 3 (female, 26 years)
 | --- | ----------- | ----------- | ----------- |
 | Initial takeaways | It makes me feel bad about the pollution of plastic in the ocean and the ways I contribute. The 90% statistics were especially alarming. | I already knew quite a bit about plastic and recycling plastic but my initial thoughts are that we need to use less plastic, however, the petroleum lobby is really the problem. They created the myth of recycling. | Plastic production has increased in the past few years and it is harming our ecosystems. Also, if people have the time they would do more to help the environment (as seen in the increase during pandemic). |
 | Things that struck your eye | The big bar graph about the growth of plastic production since the 1950s. It has been very continuous. | The graph that shows the exponential growth of plastic production. | The nurdle picture. Also, the 9% vs. 91% - can you turn that into a visualization maybe? |
