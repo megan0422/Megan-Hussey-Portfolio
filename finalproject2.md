@@ -3,3 +3,29 @@ For this part of my final project, I put together a wireframe detailing the orde
 
 ### Wireframe
 Below is the sketch of my initial wireframe. The first data visualization is one of the sketches from the [first part of the final project](https://megan0422.github.io/Megan-Hussey-Portfolio/finalproject1) (world plastic production from 1950-2015). I decided to not use the world map as my second data visualization, as I feel that it does not encompass a shock factor. Truly, it doesn't matter how much plastic each country produces for the purposes of my presentation. 
+
+![Wireframe](Final Part 2-1.jpg)
+
+### Storyboard 
+
+### Interviews
+As part of my user research, I presented my storyboard to three individuals and gathered their responses to the following questions: 
+
+1. What are your initial takeaways? 
+2.	What struck your eye? 
+3.	Was there anything that confused you?
+4.	Would you do anything differently?
+5.	Who do you think is the target audience and would it reach them well?
+6.	How was the use of imagery?
+
+To ensure I interviewed a diverse set of perspectives, I spoke to two individuals in their 20s and one individual in their 50s. Their responses to these questions are documented in the table below. 
+
+| Question | Person 1 (female, 24 years) | Person 2 (female, 58 years)
+| --- | ----------- | ----------- |
+| Initial takeaways | It makes me feel bad about the pollution of plastic in the ocean and the ways I contribute. The 90% statistics were especially alarming. | 1.	I already knew quite a bit about plastic and recycling plastic but my initial thoughts are that we need to use less plastic, but the petroleum lobby is the problem. They created the myth of recycling. |
+| Things that struck your eye | Text |
+| Found confusing |
+| Things you would do differently |
+| Target audience |
+| Use of imagery |
+
