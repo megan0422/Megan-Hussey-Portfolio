@@ -8,6 +8,12 @@ Below is the sketch of my initial wireframe. The first data visualization is one
 
 ![Wireframe](Final Part 2-1.jpg)
 
+My two data visuals are attached below. Both were build in flourish using the actual datasets. A quick note on the nurdle patrol graph - I had to do some cleanup of this data in Python to be able to aggregate the total nurdles collected by year. One interesting thing about that graph in particular is the jump of nurdle collection in 2020. This is likely due to people having more time to go out and do things during lockdowns. 
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11987742"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11999757"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ### Storyboard📖
 I created a rough draft of my final presentation in shorthand, trying to follow the structure I set up in my wireframe. One thing I found difficult when creating the rough draft was balancing too many words vs. visuals since copyright free images are limited. 
 
