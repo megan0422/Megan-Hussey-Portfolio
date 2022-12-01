@@ -22,10 +22,10 @@ To ensure I interviewed a diverse set of perspectives, I spoke to two individual
 
 | Question | Person 1 (female, 24 years) | Person 2 (female, 58 years)
 | --- | ----------- | ----------- |
-| Initial takeaways | It makes me feel bad about the pollution of plastic in the ocean and the ways I contribute. The 90% statistics were especially alarming. | 1.	I already knew quite a bit about plastic and recycling plastic but my initial thoughts are that we need to use less plastic, but the petroleum lobby is the problem. They created the myth of recycling. |
-| Things that struck your eye | Text |
-| Found confusing |
-| Things you would do differently |
-| Target audience |
-| Use of imagery |
+| Initial takeaways | It makes me feel bad about the pollution of plastic in the ocean and the ways I contribute. The 90% statistics were especially alarming. | I already knew quite a bit about plastic and recycling plastic but my initial thoughts are that we need to use less plastic, however, the petroleum lobby is really the problem. They created the myth of recycling. |
+| Things that struck your eye | The big bar graph about the growth of plastic production since the 1950s. It has been very continuous. | The graph that shows the exponential growth of plastic production. | 
+| Found confusing | Nothing was super confusing but you didn’t focus on nurdles until the end. Are all nurdles microplastics or are all microplastics nurdles? The transition needs to be clarified. | Why is so little plastic recycled? Is it because people don’t try? Or can most plastic not be recycled? That needs to be clarified. |
+| Things you would do differently | Could you visualize some of your statistics instead of just spelling them out for the audience? It was a little hard to follow all the words so quickly. | I would put in a picture of nurdles. I think I’m having trouble understanding what they are still. Maybe include a dimension. |
+| Target audience | People who care about the environment, with a sub focus on people who have time and money to care about the environment. I do think it reaches them well. | Anybody that cares about the environment. I think it would resonate with them well. |
+| Use of imagery | I thought your use of imagery was incredibly powerful. | In general, it was good. But I am still left wondering what a nurdle really looks like. |
 
