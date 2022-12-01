@@ -37,4 +37,4 @@ To ensure I interviewed a diverse set of perspectives, I spoke to two individual
 | Target audience | People who care about the environment, with a sub focus on people who have time and money to care about the environment. I do think it reaches them well. | Anybody that cares about the environment. I think it would resonate with them well. |
 | Use of imagery | I thought your use of imagery was incredibly powerful. | In general, it was good. But I am still left wondering what a nurdle really looks like. |
 
-### Next steps
+### Next steps✅
