@@ -7,7 +7,9 @@ Below is the sketch of my initial wireframe. The first data visualization is one
 ![Wireframe](Final Part 2-1.jpg)
 
 ### Storyboard📖
-I created a rough draft of my final presentation in shorthand, trying to follow the structure I set up in my wireframe. 
+I created a rough draft of my final presentation in shorthand, trying to follow the structure I set up in my wireframe. One thing I found difficult when creating the rough draft was balancing too many words vs. visuals since copyright free images are limited. 
+
+The link to preview my rough draft can be found [here.](https://preview.shorthand.com/O5jAUoDFg29IZwQh)
 
 ### Interviews👩‍💻
 As part of my user research, I presented my storyboard to three individuals and gathered their responses to the following questions: 
