@@ -38,3 +38,8 @@ To ensure I interviewed a diverse set of perspectives, I spoke to two individual
 | Use of imagery | I thought your use of imagery was incredibly powerful. | In general, it was good. But I am still left wondering what a nurdle really looks like. | Your images were fantastic. |
 
 ### Next steps✅
+After reading through my interviews, I know I need to do the following things before turning in my final project: 
+1. Make some sort of dimension comparison visualization for a microplastic. 
+2. Try to take out some words and replace them with visuals (91% vs. 9%, for instance).
+3. Find a better picture of a nurdle (this is difficult due to copyright licensing, but I may have permission to share a copyrighted image of one). I feel this is especially important because it is a core component of my presentation.
+4. I need to either verbally clarify (or add words) why we recycle so little, and that a nurdle is a microplastic, but not all microplastics are nurdles. 
