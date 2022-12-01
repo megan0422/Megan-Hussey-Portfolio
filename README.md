@@ -14,3 +14,4 @@ Check out links to my work for this class below!
 #### [Data visualization exercise 1](https://megan0422.github.io/Megan-Hussey-Portfolio/dataviz2)
 #### [Data critique and redesign](https://megan0422.github.io/Megan-Hussey-Portfolio/redesign)
 #### [Final project part 1](https://megan0422.github.io/Megan-Hussey-Portfolio/finalproject1)
+#### [Final project part 2](https://megan0422.github.io/Megan-Hussey-Portfolio/finalproject2)
