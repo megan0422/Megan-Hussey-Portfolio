@@ -4,7 +4,7 @@ For this part of my final project, I put together a wireframe detailing the orde
 Curious about part 1? [Make sure to check it out!](https://megan0422.github.io/Megan-Hussey-Portfolio/finalproject1)
 
 ### Wireframe🕸️
-Below is the sketch of my initial wireframe. The first data visualization is one of the sketches from what I laid out in part 1 (world plastic production from 1950-2015). I decided to not use the world map as my second data visualization, as I feel that it does not encompass a shock factor. Truly, it doesn't matter how much plastic each country produces for the purposes of my presentation. 
+Below is the sketch of my initial wireframe. The first data visualization is one of the sketches from what I laid out in part 1 (world plastic production from 1950-2015). I decided to not use the world map as my second data visualization, as I feel that it does not encompass a shock factor. Truly, it doesn't matter how much plastic each country produces for the purposes of my presentation. I want people to focus in on the big picture rather than narrowing in on individual countries who may produce more plastic than others.
 
 ![Wireframe](Final Part 2-1.jpg)
 
