@@ -32,7 +32,7 @@ Adding both the from infogram and a better nurdle picture helped with my **clari
 I knew from conducting my interviews that I was targeting environmentally conscious people who had the time and effort to help. Because of this, I felt that I didn't need much background introduction to climate change and how it affects our oceans. During my presentation, I also didn't spend much time introducing the problem of plastic pollution, I just jumped right in to show the alarming data of the growth of plastic production. My third interviewee also told me she felt like it was very targeted towards students. To a certain extend, I agreed. Even though I believe climate change reform requires system-wide interventions, I felt like it was important to leave my audience with concrete, actionable steps that can be taken *today*. 
 
 ## Final Result✅
-[Here is the link](https://carnegiemellon.shorthandstories.com/microplastics-a-threat-to-us-all/index.html) to my final, published website on shorthand. 
+[Here is the link](https://carnegiemellon.shorthandstories.com/microplastics-a-threat-to-us-all/) to my final, published website on shorthand. 
 
 ## What I learned🧠
 Overall, this project was a lot of fun for me to complete. Here are some of the biggest takeaways from this project: 
