@@ -11,7 +11,9 @@ I feel very confident in my ability to work with and synthesize data, but I am e
 # Portfolio
 Check out links to my work for this class below! 
 
-#### [Data visualization exercise 1](https://megan0422.github.io/Megan-Hussey-Portfolio/dataviz2)
+#### [Data visualization exercise](https://megan0422.github.io/Megan-Hussey-Portfolio/dataviz2)
 #### [Data critique and redesign](https://megan0422.github.io/Megan-Hussey-Portfolio/redesign)
 #### [Final project part 1](https://megan0422.github.io/Megan-Hussey-Portfolio/finalproject1)
 #### [Final project part 2](https://megan0422.github.io/Megan-Hussey-Portfolio/finalproject2)
+#### [Final project part 3](https://megan0422.github.io/Megan-Hussey-Portfolio/finalproject3)
+#### [Final project published website](https://carnegiemellon.shorthandstories.com/microplastics-a-threat-to-us-all/index.html)
